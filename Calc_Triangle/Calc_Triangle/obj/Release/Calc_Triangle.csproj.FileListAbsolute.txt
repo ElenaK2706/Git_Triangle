@@ -1,0 +1,5 @@
+E:\работа\for Mindbox\Calc_Triangle\Calc_Triangle\bin\Release\Calc_Triangle.dll
+E:\работа\for Mindbox\Calc_Triangle\Calc_Triangle\bin\Release\Calc_Triangle.pdb
+E:\работа\for Mindbox\Calc_Triangle\Calc_Triangle\obj\Release\ResolveAssemblyReference.cache
+E:\работа\for Mindbox\Calc_Triangle\Calc_Triangle\obj\Release\Calc_Triangle.dll
+E:\работа\for Mindbox\Calc_Triangle\Calc_Triangle\obj\Release\Calc_Triangle.pdb

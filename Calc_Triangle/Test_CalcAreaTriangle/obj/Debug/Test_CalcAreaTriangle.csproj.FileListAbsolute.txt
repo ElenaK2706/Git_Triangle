@@ -1,0 +1,7 @@
+E:\работа\for Mindbox\Calc_Triangle\Test_CalcAreaTriangle\bin\Debug\Test_CalcAreaTriangle.dll
+E:\работа\for Mindbox\Calc_Triangle\Test_CalcAreaTriangle\bin\Debug\Test_CalcAreaTriangle.pdb
+E:\работа\for Mindbox\Calc_Triangle\Test_CalcAreaTriangle\bin\Debug\Calc_Triangle.dll
+E:\работа\for Mindbox\Calc_Triangle\Test_CalcAreaTriangle\bin\Debug\Calc_Triangle.pdb
+E:\работа\for Mindbox\Calc_Triangle\Test_CalcAreaTriangle\obj\Debug\ResolveAssemblyReference.cache
+E:\работа\for Mindbox\Calc_Triangle\Test_CalcAreaTriangle\obj\Debug\Test_CalcAreaTriangle.dll
+E:\работа\for Mindbox\Calc_Triangle\Test_CalcAreaTriangle\obj\Debug\Test_CalcAreaTriangle.pdb

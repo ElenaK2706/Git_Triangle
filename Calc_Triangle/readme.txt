@@ -1,0 +1,1 @@
+функция вычисления площади треугольника в Calc_Triangle\Calc_Triangle\Class1.cs
